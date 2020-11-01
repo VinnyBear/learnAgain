@@ -5,3 +5,4 @@ the GPL standard let me thought a very equal word.
 And i add this sentence just want to use the "git diff" order and simple.
 try
 reset
+TEST merge
